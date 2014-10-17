@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[qub:home|Door43 (qub)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-qub|d43-qub repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-qub/archive/master.zip|d43-qub.zip]]
+
+**Recent Changes**
+{{changes>ns = qub}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/qub|Ethnologue data]]
+
